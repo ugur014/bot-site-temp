@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Jun 2021 13:31:42 at https://CodeHelperbot.cf/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+CodeHelperCodeHelper
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://atomicbot.cf/ -O1 "C:\CalbabaCal\Atomic" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, mCodeHelpertain sensitive information,CodeHelper
+CodeHelperCodeHelper
+	such as username/password authentication for websiCodeHelperrrored in this projectCodeHelper
+CodeHelperCodeHelper
+	do not share these files/folders if you want theseCodeHelpermation to remain privateCodeHelper
+CodeHelperCodeHelper
+CodeHelperCodeHelper
+CodeHelperCodeHelper
+13:32:35	Error: 	"Not Found" (404) at link https://atomicbot.cf/assets/bootstrap/css/bootstrap.min.css (from https://atomicbot.cf/)
+
+13:32:35	Error: 	"Not Found" (404) at link https://atomicbot.cf/css-family=Alfa+Slab+One.css (from https://atomicbot.cf/)
+
+13:33:07	Error: 	"Not Found" (404) at link https://atomicbot.cf/assets/fonts/font-awesome.min.css (from https://atomicbot.cf/)
+
+13:33:24	Error: 	"Not Found" (404) at link https://atomicbot.cf/assets/fonts/ionicons.min.css (from https://atomicbot.cf/)
+
+13:33:24	Error: 	"Not Found" (404) at link https://atomicbot.cf/animate.min.css (from https://atomicbot.cf/)
+
+13:33:24	Error: 	"Not Found" (404) at link https://atomicbot.cf/assets/css/styles.css (from https://atomicbot.cf/)
+
+13:33:32	Error: 	"Not Found" (404) at link https://atomicbot.cf/assets/img/superthumb.png (from https://atomicbot.cf/)
+
+13:33:32	Error: 	"Not Found" (404) at link https://atomicbot.cf/assets/js/jquery.min.js (from https://atomicbot.cf/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 17 seconds : 34 links scanned, 25 files written (8129958 bytes overall) [7552138 bytes received at 38335 bytes/sec], 829753 bytes transferred using HTTP compression in 20 files, ratio 24%, 2.8 requests per connection
+
+(8 errors, 0 warnings, 0 messages)
+
